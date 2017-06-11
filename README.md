@@ -1,4 +1,4 @@
-# Logic Gates for PHP
+# Logic Gates and Criteria Tree for PHP
 
 - AND
 - OR

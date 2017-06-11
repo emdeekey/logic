@@ -1,6 +1,6 @@
 {
 	"name": "thefox/logic",
-	"description": "Logic Gates",
+	"description": "Logic Gates and Criteria Tree",
 	"license": "GPL-3.0",
 	"type": "library",
 	"keywords": [ "logic", "gate", "and", "or", "not", "andgate", "orgate", "notgate", "criteriatree", "tree" ],
