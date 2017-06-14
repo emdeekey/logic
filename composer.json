@@ -24,10 +24,5 @@
 	},
 	"autoload-dev": {
 		"psr-0": { "TheFox\\": "tests" }
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-master": "1.x.x-dev"
-		}
 	}
 }
