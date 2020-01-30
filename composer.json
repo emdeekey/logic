@@ -1,7 +1,7 @@
 {
     "name": "thefox/logic",
     "description": "Logic Gates and Criteria Tree",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "type": "library",
     "keywords": [
         "logic",
